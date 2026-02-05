@@ -72,7 +72,7 @@ You must implement at least **4 different models** including:
 
 ## Deliverables 
 
-### 1. Project Proposal (Due: 2/13/26)
+### 1. Project Proposal (Due: 2/12/26)
 **Submission:** 1-page PDF per team  
 **Points:** 10 points  
 
